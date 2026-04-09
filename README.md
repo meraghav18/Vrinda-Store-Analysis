@@ -1,4 +1,3 @@
-# Vrinda-Store-Analysis
 # 🛍️ Vrinda Store Sales Analysis (Excel Dashboard)
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -78,8 +77,7 @@ Vrinda_Store_Data_Analysis.xlsx
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading)*  
-> Tip: Screenshot the `Vrinda Store Report` sheet and upload as `dashboard.png`
+[![Dashboard Preview](https://i.ibb.co/q3F48D35/dashboard.png)](https://ibb.co/q3F48D35)
 
 ---
 
