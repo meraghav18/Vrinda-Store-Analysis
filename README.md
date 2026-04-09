@@ -99,7 +99,7 @@ Vrinda_Store_Data_Analysis.xlsx
 
 **Raghav Pratap** — Data Analytics Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/raghav-pratap-a841661bb/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
 
 ---
